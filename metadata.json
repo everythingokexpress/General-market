@@ -1,0 +1,6 @@
+{
+  "name": "General Market",
+  "description": "General Market — Buy. Sell. Find Anything. Nigeria's premier modern online marketplace for cars, property, phones, electronics, home goods, jobs, and farm products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
